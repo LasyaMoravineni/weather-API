@@ -5,7 +5,8 @@
     box-sizing: border-box;
 }
 body{
-    background: rgb(248, 216, 245);
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgb(14, 156, 212) 0%, rgb(103, 192, 216) 35%, rgb(207, 231, 234) 100%);
 }
 
 .card{
@@ -15,7 +16,7 @@ body{
     max-width: 550px;
     height: 50%;
     margin: 50px auto 0;
-    background: linear-gradient(to bottom right,rgb(99, 99, 226),rgb(201, 201, 234));
+    background: linear-gradient(to bottom right,rgb(99, 99, 226),rgb(201, 201, 229));
     border-radius: 9px;
     text-align: center;
 }
